@@ -1,7 +1,9 @@
 # Some code from transfer learning research
 
-# Author: Allegra Allgeier
+Author: Allegra Allgeier
 
-# Highlights
-## Transfer learning
-## Data augmentation
+## Highlights
+PyTorch
+Transfer learning
+Data augmentation
+Image recognition
