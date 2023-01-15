@@ -1,5 +1,5 @@
 ## Part of transfer learning research code
-Purpose of posted code: We were interested in whether ResNet classifies a car damage location based on the actual damage location or the photo angle. For example, does the classifier know that there is a damage on the side of a car because it actually recognizes a damage there or because the photo simply shows the side of a car?<br>
+Purpose of posted code: We were interested in whether ResNet classifies a car damage location based on the actual damage location or the photo angle. For example, does the classifier know that there is a damage on the side of a car because it actually recognizes a damage there or because the photo simply shows the side of a car? Is the model learning what we want it to learn?<br>
 <br>
 Full paper link: https://ieeexplore.ieee.org/document/9844486
 
