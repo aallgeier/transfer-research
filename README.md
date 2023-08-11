@@ -4,7 +4,7 @@ We were interested in whether ResNet classifies a car damage location based on t
 Full paper link: https://ieeexplore.ieee.org/document/9844486
 
 <p float="left">
-  <img src="fig3.png" width="400" />
+  <img src="fig3.png" width="500" />
 </p>
 
 ## Acknowledgements
