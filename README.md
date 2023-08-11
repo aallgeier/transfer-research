@@ -3,6 +3,10 @@ Purpose of posted code: We were interested in whether ResNet classifies a car da
 <br>
 Full paper link: https://ieeexplore.ieee.org/document/9844486
 
+<p float="left">
+  <img src="fig3" width="400" />
+</p>
+
 ## Acknowledgements
 My code is largely based on the PyTorch tutorials below:<br>
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html<br>
