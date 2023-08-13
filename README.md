@@ -4,7 +4,6 @@ ResNet Does Not Perform Intelligent Understanding of Picture in Image Recognitio
 ## Summary
 Found through experiments and theoretical considerations that ResNet recognizes local patterns, instead of global object shapes, and exploits spurious correlations.<br>
 
-<br>
 IEEE paper link: https://ieeexplore.ieee.org/document/9844486 <br>
 Selected code in notbooks. <br>
 
