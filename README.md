@@ -4,8 +4,10 @@ ResNet Does Not Perform Intelligent Understanding of Picture in Image Recognitio
 ## Summary
 Found through experiments and theoretical considerations that ResNet recognizes local patterns, instead of global object shapes, and exploits spurious correlations.<br>
 
-IEEE paper link: https://ieeexplore.ieee.org/document/9844486 <br>
-Selected code in notbooks. <br>
+More on published paper: https://ieeexplore.ieee.org/document/9844486 <br>
+
+## Contents of shared notebook
+In the car-damage-locaction.ipynb notebook, given images of damaged cars with damage locations as labels ("side", "not side"), we train ResNet-50 to determine whether the damage is visible on the side of the car or at other locations of the car. We find through experiments that depending on the dataset, ResNet is not actually locating the damage on the body of the car, but may be taking in other factors such as the photo angle to determine the damage location. In fact, most photos with damage on the side are taken from the side of the car as, naturally, this provides maximum visibility of the damage. We conclude that we should be mindful of the characteristics of our dataset and examine which factors are contributing to the model's predictions. 
 
 <p float="left">
   <img src="images/fig3.png" width="500" />
